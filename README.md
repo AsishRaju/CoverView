@@ -9,16 +9,16 @@
 - Now Supports download as JPEG ⏬
 - Refactored Codebase 👌🏻
 
-![](mdassests/test.gif)
+![](https://raw.githubusercontent.com/AsishRaju/CoverView/master/mdassests/test.gif)
 
 ## Added Background Patterns 👇🏻
 
-<img src="mdassests/backdrop.jpg" style="border-radius:8px" width="400">
+<img src="https://raw.githubusercontent.com/AsishRaju/CoverView/master/mdassests/backdrop.jpg" style="border-radius:8px" width="400">
 
 ### Side Note 😬
 
 Couldnt fix the allignment for foreground color picker and text color picker , i am bad with css 🙁 and my solution was to use float but author was using flex system so didnt do it.
 
-![](mdassests/problem.png)
+![](https://raw.githubusercontent.com/AsishRaju/CoverView/master/mdassests/problem.png)
 
 # ✌🏻
