@@ -1,5 +1,9 @@
 ### [Original Repo] | [Check it out here]
 
+### What is CoverView 🤔
+
+Awesome tool that helps you create cover images for your blog posts 🎨
+
 ### My PR 👇🏻
 
 ## More Customisation Options ✨
