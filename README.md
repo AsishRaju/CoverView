@@ -1,3 +1,7 @@
+### [Original Repo] | [Check it out here]
+
+### My PR 👇🏻
+
 ## More Customisation Options ✨
 
 - Change foreground and text color 🎨
@@ -22,3 +26,6 @@ Couldnt fix the allignment for foreground color picker and text color picker , i
 ![](mdassests/problem.png)
 
 # ✌🏻
+
+[original repo]: https://github.com/rutikwankhade/CoverView
+[check it out here]: https://coverview.now.sh/
